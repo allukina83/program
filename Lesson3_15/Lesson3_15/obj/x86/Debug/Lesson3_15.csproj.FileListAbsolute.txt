@@ -1,0 +1,6 @@
+D:\C#\Lesson3_15\Lesson3_15\bin\Debug\Lesson3_15.exe
+D:\C#\Lesson3_15\Lesson3_15\bin\Debug\Lesson3_15.pdb
+D:\C#\Lesson3_15\Lesson3_15\obj\x86\Debug\Lesson3_15.exe
+D:\C#\Lesson3_15\Lesson3_15\obj\x86\Debug\Lesson3_15.pdb
+D:\git_repository\Lesson3_15\Lesson3_15\obj\x86\Debug\Lesson3_15.exe
+D:\git_repository\Lesson3_15\Lesson3_15\obj\x86\Debug\Lesson3_15.pdb

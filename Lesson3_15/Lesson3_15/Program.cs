@@ -7,7 +7,7 @@ namespace Lesson3_15
 {
     class Program
     {
-        /*static void Main(string[] args)
+        //static void Main(string[] args)
         {
             Console.Write("x=");
             double x = double.Parse(Console.ReadLine());
